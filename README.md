@@ -1,5 +1,3 @@
 # RobustQA
 
-This repo hosts the datasets for our RobustQA paper (ACL-23 Findings).
-
-Experiment code will be released later in a different repo.
+All data and processing code has been moved to official AWS AI Labs repo _[here](https://github.com/awslabs/robustqa-acl23)_. 
